@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Things i've learned through DBC</title>
+</head>
+<body>
+  <img src="https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/1675/original/dev-bootcamp-phase0-spotlight-header.png">
+  <h1><em>Finding your path with<a href="http://devbootcamp.com/?utm_source=Google&utm_medium=cpc&utm_campaign=Seattle+Metro+-+Branded&utm_content=Branded+-+Dev+Bootcamp&utm_term=devbootcamp"> Devbootcamp!</a></em></h1>
+  <article>
+  	<h2>A Bobolink's personal experience in persuing a future as a <a href="https://en.wikipedia.org/wiki/Web_developer"> computer programmer</a> with Devbootcamp</h2>
+    	<p>It all started with a job that, at the time I had thought would propell my career as a bartender/server. A well known place that was a hospitality employed place to be. With wines from major vintages all over the world and the most valuable clientel Washington has to offer. From Boing to Amazon to Celebreties. This wasn't all that it seemed to be. I belonged to a different group. A very important group that makes changes in your everyday life right in front of your eyes but works proudly behind the curtain. With great creativity and imagination and fullfilling our thoughts, needs and dreams through the www (World wide web). This is where I share my adventures with my cohorts and I to help shape the world we live in.</p>
+   </article>
+       <table border=1>
+  <tr>
+    <th><strong>Jobs</strong></th>
+    <th><strong><a href="https://www.roberthalf.com/technology/2016-salary-center-for-technology-professionals"> In demand tech roles</a></strong></th>
+  </tr>
+  <tr>
+    <td>Developers:</td>
+    <td> Web, software and
+mobile app developers – employers
+across industries are looking to hire
+them all. Those with .NET, PHP
+and MySQL skills, as well as those
+with responsive design skills, are in
+high demand. </td>
+  </tr>
+  <tr>
+    <td>Systems engineers and systems administrators:</td>
+    <td> Systems engineers
+with virtualization skills and systems administrators are needed by many
+firms to manage the convergence
+of networking, systems and data
+storage. Many firms especially value
+SharePoint or Salesforce experience</td>
+  </tr>
+  </table>
+  	<p>I have only been in the course for 2 weeks and now can do things and understand things that I really didn't think I would understand at this point. Throughout the course you will look at this page and see it grow and look more elegant and cunning but for 2 weeks, lets be honest, this is pretty good stuff. The cohorts are great and you learn so much from them! Let's point out what I feel has helped me and find pretty fascinating about the DBC experience.</p>
+      <ul>
+      		<li>Working through<a href="https://slack.com/"> slack</a> and communicating with my cohorts I haven't really had to go to a teacher for help because your cohorts are on top of it</li>
+      		<li>The instructors are very helpful and supportive. Thus giving you mental strength and confidence to keep you going</li>
+      		<li>The practice of empathy really is an amazing thing that DBC focuses on but is essential to the tech world. Collaborating on projects is what this business is all about. If you think you can lone ranger this you are wrong. Even brilliant ideas could always use a hand.</li>
+      </ul>
+    <form action="https://www.amazon.com/"  method="post">
+  <div>
+    <label>Email:</label>
+    <input type="email" name="email">
+  </div>
+  <div>
+    <label>Password:</label>
+    <input type="password" name="password">
+  </div>
+  <button type="submit">Log in</button>
+</form>
+
+<footer>
+        © 2016<a href="https://www.facebook.com/austin.kading"> Austin Kading</a>
+</footer>
+</body>
+</html>
